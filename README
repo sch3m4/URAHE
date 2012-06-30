@@ -1,0 +1,7 @@
+Windows library writen in ASMx86 to do Ring3 API Hooking by using Trampoline Hooking technique.
+
+This library was written in 2007 and made public in 2008, so sorry by the poor documentation...
+
+You have a working example at "example.c" file.
+
+Spanish post: http://safetybits.net/2008/10/31/urahe-universal-ring3-api-hooking-engine/
